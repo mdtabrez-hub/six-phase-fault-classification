@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "six-phase-fault-classification: Machine-learning based fault detection and classification for six-phase transmission systems"
+abstract: "Machine-learning based fault detection and classification for six-phase transmission systems."
+type: software
+license: MIT
+version: 1.0.0
+repository-code: "https://github.com/mdtabrez-hub/six-phase-fault-classification"
+keywords: [six-phase transmission, fault classification, machine learning, power systems]
+authors: [{family-names: Tabrez, given-names: Md, orcid: "https://orcid.org/0000-0002-0829-1258", affiliation: "Motihari College of Engineering, Motihari, Bihar, India"}]
